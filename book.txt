@@ -1,0 +1,14 @@
+The Great Gatsby ,F. Scott Fitzgerald ,1925 ,218
+Pride And Prejudice  ,Jane Austen ,1813 ,279
+The Catcher In The Rye ,J.D. Salinger ,1951 ,2345
+Moby-Dick ,Herman Melville ,1851 ,635
+Brave New World ,Aldous Huxley ,1932 ,311
+The Lord Of The Rings ,J.R.R. Tolkien ,1954 ,1178
+The Chronicles Of Narnia ,C.S. Lewis ,1950 ,767
+Frankenstein ,Mary Shelley ,1818 ,280
+1984 ,George Orwell ,1949 ,328
+To Kill A Mockingbird ,Harper Lee ,1960 ,281
+Kaşağı ,Ömer Seyfettin ,1919 ,124
+Üç Anadolu Efsanesi ,Yaşar Kemal ,1967 ,222
+Dokuzuncu Hariciye Koğuşu ,Peyami Safa ,1929 ,128
+Sırça Köşk ,Sabahattin Ali ,1947 ,141
